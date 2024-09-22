@@ -5,10 +5,10 @@
 
 | # | Link | Description | Due Date |
 |:-:|:----:|:-----------:|:--------:|
-| 0 | HW0 <br/>  | Data Engineering and Data Science warmup | 9/TBD @ Midnight |
-| 1 | HW1 <br/>  | Pattern Mining | 9/30 @ Midnight |
-| 2 | HW2 <br/>  | Unsupervised Learning | 10/18 @ Midnight |
-| 3 | HW3 <br/>  | Supervised Learning | 11/11 @ Midnight |
+| 0 | HW0 [pdf](./hw0/hw0.pdf) [md](./hw0/hw0.md) [ipynb](./hw0/hw0.ipynb); [starter](./hw0/hw0_starter_nb.ipynb) notebook  <br/>  | Data Engineering and Data Science warmup | 9/TBD @ Midnight |
+| 1 | HW1 <br/>  | Pattern Mining | TBD @ Midnight |
+| 2 | HW2 <br/>  | Unsupervised Learning | TBD @ Midnight |
+| 3 | HW3 <br/>  | Supervised Learning | TBD @ Midnight |
 
 
 <!--
